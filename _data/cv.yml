@@ -50,9 +50,6 @@
 - title: Publications
   type: time_table
   contents:
-    - title: "CoDiffusion: Harmonizing Layouts and Image Generation through Joint Diffusion"
-      year: Under Review
-      description: "S. Grover, S. Aggarwal, D. Srivastav, Z. Tu"
     - title: "Enhancing Generalization in VLA Models by Preserving Pretrained Representations"
       year: Under Review
       description: "S. Grover, A. Gopalkrishnan, Bo Ai, H. I. Christensen, H. Su, Xuanlin Li"
